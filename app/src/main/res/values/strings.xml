@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calcula Consumo</string>
+    <string name="app_title">Calcula Consumo</string>
+
+    <string name="edit_distance">Distância</string>
+    <string name="totalKm">Total em Quilômetros</string>
+
+    <string name="edit_Price">Preço</string>
+    <string name="total_price">Preço por Litros</string>
+
+    <string name="edit_autonomy">Autonomia</string>
+    <string name="value_autonomy">Quilômetros por Litros</string>
+
+
+    <string name="text_consumed">Seu gasto total, será de:</string>
+    <string name="label_calculated">r$: 0</string>
+
+    <string name="btn_calculate">Calcular</string>
+
+    <string name="validation_all_fields">Preencha todos os campos</string>
+
+    <string name="validation_autonomy">Não aceita 0 no campo Autonomia</string>
+    <string name="validation_distance">Não aceita 0 no campo Distância</string>
+    <string name="validation_price">Não aceita no campo Preço</string>
+
+
+
+
+</resources>
